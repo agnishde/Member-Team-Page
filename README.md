@@ -1,2 +1,2 @@
-![Screenshot (112)](https://github.com/agnishde/Member-Team-Page/assets/86564675/80cf38a8-084e-40b1-920c-3a591ab40723)
-![Screenshot (113)](https://github.com/agnishde/Member-Team-Page/assets/86564675/63e3e684-ac00-4630-8590-8aeda418912b)
+![Screenshot (113)](https://github.com/agnishde/Member-Team-Page/assets/86564675/bcd095fc-b25a-490b-b23d-cf69c60fd2b2)
+![Screenshot (112)](https://github.com/agnishde/Member-Team-Page/assets/86564675/84a97bc5-878a-4d80-b030-e44117528e92)
